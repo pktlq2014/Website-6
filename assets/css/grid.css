@@ -229,7 +229,7 @@
 
 /* PC medium resolution > */
 @media (min-width: 1113px) {
-    .row {
+    /* .row {
         margin-left: -6px;
         margin-right: -6px;
     }
@@ -247,7 +247,7 @@
     }
     .l-0 {
         display: none;
-    }
+    } */
     .l-1,
     .l-2,
     .l-2-4,
